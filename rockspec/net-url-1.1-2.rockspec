@@ -3,7 +3,7 @@ version = "1.1-2"
 
 source = {
    url = "git://github.com/chirkin/neturl.git",
-   tag = "1.1-2"
+   tag = "v1.1-2"
 }
 
 description = {
